@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muslera-kaan-cyber.github.io/atacan-mangal-soba/sitemap.xml
