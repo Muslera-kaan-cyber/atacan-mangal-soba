@@ -1,0 +1,688 @@
+[
+  {
+    "id": "160",
+    "name": "Tekerlekli portatif bahçe mangalı",
+    "category": "Mangallar",
+    "image": "assets/products/160.jpg",
+    "page": "urun-160-tekerlekli-portatif-bahce-mangali.html"
+  },
+  {
+    "id": "161",
+    "name": "Katlanabilir emaye mangal",
+    "category": "Mangallar",
+    "image": "assets/products/161.jpg",
+    "page": "urun-161-katlanabilir-emaye-mangal.html"
+  },
+  {
+    "id": "162",
+    "name": "Bacalı barbekü portatif mangal",
+    "category": "Mangallar",
+    "image": "assets/products/162.jpg",
+    "page": "urun-162-bacali-barbeku-portatif-mangal.html"
+  },
+  {
+    "id": "163",
+    "name": "Katlanabilir emaye mangal",
+    "category": "Mangallar",
+    "image": "assets/products/163.jpg",
+    "page": "urun-163-katlanabilir-emaye-mangal.html"
+  },
+  {
+    "id": "164",
+    "name": "1 no emaye mangal",
+    "category": "Mangallar",
+    "image": "assets/products/164.jpg",
+    "page": "urun-164-1-no-emaye-mangal.html"
+  },
+  {
+    "id": "165",
+    "name": "2 no emaye mangal",
+    "category": "Mangallar",
+    "image": "assets/products/165.jpg",
+    "page": "urun-165-2-no-emaye-mangal.html"
+  },
+  {
+    "id": "166",
+    "name": "3 no emaye mangal",
+    "category": "Mangallar",
+    "image": "assets/products/166.jpg",
+    "page": "urun-166-3-no-emaye-mangal.html"
+  },
+  {
+    "id": "64",
+    "name": "1 NO KIRMA AYAKLI MANGAL",
+    "category": "Mangallar",
+    "image": "assets/products/64.jpg",
+    "page": "urun-64-1-no-kirma-ayakli-mangal.html"
+  },
+  {
+    "id": "65",
+    "name": "1 NO KIRMA AYAKLI MANGAL",
+    "category": "Mangallar",
+    "image": "assets/products/65.jpg",
+    "page": "urun-65-1-no-kirma-ayakli-mangal.html"
+  },
+  {
+    "id": "67",
+    "name": "3 NO KIRMA AYAKLI MANGAL",
+    "category": "Mangallar",
+    "image": "assets/products/67.jpg",
+    "page": "urun-67-3-no-kirma-ayakli-mangal.html"
+  },
+  {
+    "id": "68",
+    "name": "25-40 TAHTA SAPLI PİRZOLA IZGARA",
+    "category": "Mangallar",
+    "image": "assets/products/68.jpg",
+    "page": "urun-68-25-40-tahta-sapli-pirzola-izgara.html"
+  },
+  {
+    "id": "69",
+    "name": "32-42 TAHTA SAPLI PİRZOLA IZGARA",
+    "category": "Mangallar",
+    "image": "assets/products/69.jpg",
+    "page": "urun-69-32-42-tahta-sapli-pirzola-izgara.html"
+  },
+  {
+    "id": "70",
+    "name": "BATTAL BOY DEMİR SEHPALI MANGAL",
+    "category": "Mangallar",
+    "image": "assets/products/70.jpg",
+    "page": "urun-70-battal-boy-demir-sehpali-mangal.html"
+  },
+  {
+    "id": "71",
+    "name": "BOYALI MANGAL 2",
+    "category": "Mangallar",
+    "image": "assets/products/71.jpg",
+    "page": "urun-71-boyali-mangal-2.html"
+  },
+  {
+    "id": "72",
+    "name": "BOYALI MANGAL1",
+    "category": "Mangallar",
+    "image": "assets/products/72.jpg",
+    "page": "urun-72-boyali-mangal1.html"
+  },
+  {
+    "id": "73",
+    "name": "BÜYÜK BOY AÇIK MANGAL",
+    "category": "Mangallar",
+    "image": "assets/products/73.jpg",
+    "page": "urun-73-buyuk-boy-acik-mangal.html"
+  },
+  {
+    "id": "74",
+    "name": "BÜYÜK BOY UZUN AYAKLI MANGAL",
+    "category": "Mangallar",
+    "image": "assets/products/74.jpg",
+    "page": "urun-74-buyuk-boy-uzun-ayakli-mangal.html"
+  },
+  {
+    "id": "75",
+    "name": "ÇAM ÇIRASI",
+    "category": "Mangallar",
+    "image": "assets/products/75.jpg",
+    "page": "urun-75-cam-cirasi.html"
+  },
+  {
+    "id": "76",
+    "name": "DAVLUMBAZLI MANGAL",
+    "category": "Mangallar",
+    "image": "assets/products/76.jpg",
+    "page": "urun-76-davlumbazli-mangal.html"
+  },
+  {
+    "id": "77",
+    "name": "EMAYE MANGAL 1 NO",
+    "category": "Mangallar",
+    "image": "assets/products/77.jpg",
+    "page": "urun-77-emaye-mangal-1-no.html"
+  },
+  {
+    "id": "78",
+    "name": "EMAYE MANGAL 2 NO",
+    "category": "Mangallar",
+    "image": "assets/products/78.jpg",
+    "page": "urun-78-emaye-mangal-2-no.html"
+  },
+  {
+    "id": "79",
+    "name": "KÖFTE IZGARALARI",
+    "category": "Mangallar",
+    "image": "assets/products/79.jpg",
+    "page": "urun-79-kofte-izgaralari.html"
+  },
+  {
+    "id": "81",
+    "name": "KÜÇÜK BOY AÇIK MANGAL",
+    "category": "Mangallar",
+    "image": "assets/products/81.jpg",
+    "page": "urun-81-kucuk-boy-acik-mangal.html"
+  },
+  {
+    "id": "82",
+    "name": "ORTA BOY DEMİR MANGAL SEHPALI",
+    "category": "Mangallar",
+    "image": "assets/products/82.jpg",
+    "page": "urun-82-orta-boy-demir-mangal-sehpali.html"
+  },
+  {
+    "id": "83",
+    "name": "ÖZEL SEHPALI MANGAL 1",
+    "category": "Mangallar",
+    "image": "assets/products/83.jpg",
+    "page": "urun-83-ozel-sehpali-mangal-1.html"
+  },
+  {
+    "id": "84",
+    "name": "ÖZEL SEHPALI MANGAL 2",
+    "category": "Mangallar",
+    "image": "assets/products/84.jpg",
+    "page": "urun-84-ozel-sehpali-mangal-2.html"
+  },
+  {
+    "id": "94",
+    "name": "AÇIK ODUN OCAK",
+    "category": "Ocaklar",
+    "image": "assets/products/94.jpg",
+    "page": "urun-94-acik-odun-ocak.html"
+  },
+  {
+    "id": "95",
+    "name": "DÖNERLİ KÜNEFE OCAĞI",
+    "category": "Ocaklar",
+    "image": "assets/products/95.jpg",
+    "page": "urun-95-donerli-kunefe-ocagi.html"
+  },
+  {
+    "id": "96",
+    "name": "EKMEK OCAK ODUNLU",
+    "category": "Ocaklar",
+    "image": "assets/products/96.jpg",
+    "page": "urun-96-ekmek-ocak-odunlu.html"
+  },
+  {
+    "id": "97",
+    "name": "EKMEK OCAK VE EKMEK SAC",
+    "category": "Ocaklar",
+    "image": "assets/products/97.jpg",
+    "page": "urun-97-ekmek-ocak-ve-ekmek-sac.html"
+  },
+  {
+    "id": "98",
+    "name": "ELEKTRİKLİ KATMER YUFKA OCAGI",
+    "category": "Ocaklar",
+    "image": "assets/products/98.jpg",
+    "page": "urun-98-elektrikli-katmer-yufka-ocagi.html"
+  },
+  {
+    "id": "99",
+    "name": "GÜRYAN TÜPLÜ SAÇ OCAKLAR",
+    "category": "Ocaklar",
+    "image": "assets/products/99.jpg",
+    "page": "urun-99-guryan-tuplu-sac-ocaklar.html"
+  },
+  {
+    "id": "100",
+    "name": "KAPALI ODUN OCAK",
+    "category": "Ocaklar",
+    "image": "assets/products/100.jpg",
+    "page": "urun-100-kapali-odun-ocak.html"
+  },
+  {
+    "id": "101",
+    "name": "KÜNEFE OCAĞI",
+    "category": "Ocaklar",
+    "image": "assets/products/101.jpg",
+    "page": "urun-101-kunefe-ocagi.html"
+  },
+  {
+    "id": "102",
+    "name": "OSMANLI ANA",
+    "category": "Ocaklar",
+    "image": "assets/products/102.jpg",
+    "page": "urun-102-osmanli-ana.html"
+  },
+  {
+    "id": "103",
+    "name": "PORTATİF SAC 35cm",
+    "category": "Ocaklar",
+    "image": "assets/products/103.jpg",
+    "page": "urun-103-portatif-sac-35cm.html"
+  },
+  {
+    "id": "104",
+    "name": "PORTATİF SAC 45cm",
+    "category": "Ocaklar",
+    "image": "assets/products/104.jpg",
+    "page": "urun-104-portatif-sac-45cm.html"
+  },
+  {
+    "id": "54",
+    "name": "1",
+    "category": "Reşo Yakıt Ürünleri",
+    "image": "assets/products/54.jpg",
+    "page": "urun-54-1.html"
+  },
+  {
+    "id": "55",
+    "name": "2",
+    "category": "Reşo Yakıt Ürünleri",
+    "image": "assets/products/55.jpg",
+    "page": "urun-55-2.html"
+  },
+  {
+    "id": "56",
+    "name": "3",
+    "category": "Reşo Yakıt Ürünleri",
+    "image": "assets/products/56.jpg",
+    "page": "urun-56-3.html"
+  },
+  {
+    "id": "57",
+    "name": "4",
+    "category": "Reşo Yakıt Ürünleri",
+    "image": "assets/products/57.jpg",
+    "page": "urun-57-4.html"
+  },
+  {
+    "id": "58",
+    "name": "5",
+    "category": "Reşo Yakıt Ürünleri",
+    "image": "assets/products/58.jpg",
+    "page": "urun-58-5.html"
+  },
+  {
+    "id": "59",
+    "name": "6",
+    "category": "Reşo Yakıt Ürünleri",
+    "image": "assets/products/59.jpg",
+    "page": "urun-59-6.html"
+  },
+  {
+    "id": "106",
+    "name": "KAVURMA SAC TAVA NO 2",
+    "category": "Saç Tava",
+    "image": "assets/products/106.jpg",
+    "page": "urun-106-kavurma-sac-tava-no-2.html"
+  },
+  {
+    "id": "107",
+    "name": "KAVURMA SAC TAVA NO 3",
+    "category": "Saç Tava",
+    "image": "assets/products/107.jpg",
+    "page": "urun-107-kavurma-sac-tava-no-3.html"
+  },
+  {
+    "id": "108",
+    "name": "KAVURMA SAC TAVA NO 4",
+    "category": "Saç Tava",
+    "image": "assets/products/108.jpg",
+    "page": "urun-108-kavurma-sac-tava-no-4.html"
+  },
+  {
+    "id": "105",
+    "name": "1.5 MM KAVURMA SAÇ TAVA",
+    "category": "Saç Tava",
+    "image": "assets/products/105.jpg",
+    "page": "urun-105-1-5-mm-kavurma-sac-tava.html"
+  },
+  {
+    "id": "109",
+    "name": "17-20-25-30 LT ÇAY SEMAVERLERİ",
+    "category": "Semaverler",
+    "image": "assets/products/109.jpg",
+    "page": "urun-109-17-20-25-30-lt-cay-semaverleri.html"
+  },
+  {
+    "id": "110",
+    "name": "ALİMİNYUM DEMLİK",
+    "category": "Semaverler",
+    "image": "assets/products/110.jpg",
+    "page": "urun-110-aliminyum-demlik.html"
+  },
+  {
+    "id": "111",
+    "name": "BAKIR BALKIN SEFASI",
+    "category": "Semaverler",
+    "image": "assets/products/111.jpg",
+    "page": "urun-111-bakir-balkin-sefasi.html"
+  },
+  {
+    "id": "112",
+    "name": "BAKIR DEMLİK",
+    "category": "Semaverler",
+    "image": "assets/products/112.jpg",
+    "page": "urun-112-bakir-demlik.html"
+  },
+  {
+    "id": "113",
+    "name": "BAKIR SEMAVER",
+    "category": "Semaverler",
+    "image": "assets/products/113.jpg",
+    "page": "urun-113-bakir-semaver.html"
+  },
+  {
+    "id": "114",
+    "name": "ÇİFT MUSLUK SEMAVER 3.5 LT",
+    "category": "Semaverler",
+    "image": "assets/products/114.jpg",
+    "page": "urun-114-cift-musluk-semaver-3-5-lt.html"
+  },
+  {
+    "id": "115",
+    "name": "ÇİFT MUSLUK SEMAVER 5 LT",
+    "category": "Semaverler",
+    "image": "assets/products/115.jpg",
+    "page": "urun-115-cift-musluk-semaver-5-lt.html"
+  },
+  {
+    "id": "116",
+    "name": "ÇİFT MUSLUK SEMAVER 8 LT",
+    "category": "Semaverler",
+    "image": "assets/products/116.jpg",
+    "page": "urun-116-cift-musluk-semaver-8-lt.html"
+  },
+  {
+    "id": "117",
+    "name": "MUSLUK",
+    "category": "Semaverler",
+    "image": "assets/products/117.jpg",
+    "page": "urun-117-musluk.html"
+  },
+  {
+    "id": "118",
+    "name": "STİL 3.5 LT SEMAVER",
+    "category": "Semaverler",
+    "image": "assets/products/118.jpg",
+    "page": "urun-118-stil-3-5-lt-semaver.html"
+  },
+  {
+    "id": "119",
+    "name": "TEK MUSLUK SEMAVER 1.5 LT",
+    "category": "Semaverler",
+    "image": "assets/products/119.jpg",
+    "page": "urun-119-tek-musluk-semaver-1-5-lt.html"
+  },
+  {
+    "id": "120",
+    "name": "TEK MUSLUK SEMAVER 2.5 LT",
+    "category": "Semaverler",
+    "image": "assets/products/120.jpg",
+    "page": "urun-120-tek-musluk-semaver-2-5-lt.html"
+  },
+  {
+    "id": "121",
+    "name": "TEK MUSLUK SEMAVER 3.5 LT",
+    "category": "Semaverler",
+    "image": "assets/products/121.jpg",
+    "page": "urun-121-tek-musluk-semaver-3-5-lt.html"
+  },
+  {
+    "id": "122",
+    "name": "TEK MUSLUK SEMAVER 5 LT",
+    "category": "Semaverler",
+    "image": "assets/products/122.jpg",
+    "page": "urun-122-tek-musluk-semaver-5-lt.html"
+  },
+  {
+    "id": "123",
+    "name": "TEK MUSLUK SEMAVER 8 LT",
+    "category": "Semaverler",
+    "image": "assets/products/123.jpg",
+    "page": "urun-123-tek-musluk-semaver-8-lt.html"
+  },
+  {
+    "id": "154",
+    "name": "ADANA (KIYMA) ŞİŞ",
+    "category": "Şişler",
+    "image": "assets/products/154.jpg",
+    "page": "urun-154-adana-kiyma-sis.html"
+  },
+  {
+    "id": "155",
+    "name": "KANAT ŞİŞ",
+    "category": "Şişler",
+    "image": "assets/products/155.jpg",
+    "page": "urun-155-kanat-sis.html"
+  },
+  {
+    "id": "156",
+    "name": "KUŞBAŞI VE TAVUK ŞİŞ",
+    "category": "Şişler",
+    "image": "assets/products/156.jpg",
+    "page": "urun-156-kusbasi-ve-tavuk-sis.html"
+  },
+  {
+    "id": "157",
+    "name": "ŞİŞ KUTUSU",
+    "category": "Şişler",
+    "image": "assets/products/157.jpg",
+    "page": "urun-157-sis-kutusu.html"
+  },
+  {
+    "id": "124",
+    "name": "ATC EMAYE SOBA",
+    "category": "Soba",
+    "image": "assets/products/124.jpg",
+    "page": "urun-124-atc-emaye-soba.html"
+  },
+  {
+    "id": "125",
+    "name": "ATC KOVALI SOBA",
+    "category": "Soba",
+    "image": "assets/products/125.jpg",
+    "page": "urun-125-atc-kovali-soba.html"
+  },
+  {
+    "id": "126",
+    "name": "CİMRİ PETEK",
+    "category": "Soba",
+    "image": "assets/products/126.jpg",
+    "page": "urun-126-cimri-petek.html"
+  },
+  {
+    "id": "127",
+    "name": "EMAYE BORU VE DİRSEK 1",
+    "category": "Soba",
+    "image": "assets/products/127.jpg",
+    "page": "urun-127-emaye-boru-ve-dirsek-1.html"
+  },
+  {
+    "id": "128",
+    "name": "EMAYE BORU VE DİRSEK",
+    "category": "Soba",
+    "image": "assets/products/128.jpg",
+    "page": "urun-128-emaye-boru-ve-dirsek.html"
+  },
+  {
+    "id": "129",
+    "name": "SABAH 8 KÖŞE SÜTUNLU SOBA",
+    "category": "Soba",
+    "image": "assets/products/129.jpg",
+    "page": "urun-129-sabah-8-kose-sutunlu-soba.html"
+  },
+  {
+    "id": "130",
+    "name": "SABAH HALK TİPİ KÖŞELİ SOBA",
+    "category": "Soba",
+    "image": "assets/products/130.jpg",
+    "page": "urun-130-sabah-halk-tipi-koseli-soba.html"
+  },
+  {
+    "id": "131",
+    "name": "SABAH MAJOLİK ÇİFT FIRIN KUZİNE SOBA",
+    "category": "Soba",
+    "image": "assets/products/131.jpg",
+    "page": "urun-131-sabah-majolik-cift-firin-kuzine-soba.html"
+  },
+  {
+    "id": "132",
+    "name": "SABAH MAJOLİK ÇİFT FIRIN KUZİNE SOBA",
+    "category": "Soba",
+    "image": "assets/products/132.jpg",
+    "page": "urun-132-sabah-majolik-cift-firin-kuzine-soba.html"
+  },
+  {
+    "id": "133",
+    "name": "SABAH ŞÖMİNE 1",
+    "category": "Soba",
+    "image": "assets/products/133.jpg",
+    "page": "urun-133-sabah-somine-1.html"
+  },
+  {
+    "id": "134",
+    "name": "SABAH ŞÖMİNE",
+    "category": "Soba",
+    "image": "assets/products/134.jpg",
+    "page": "urun-134-sabah-somine.html"
+  },
+  {
+    "id": "135",
+    "name": "SABAH TEK FIRIN KUZİNE SOBA",
+    "category": "Soba",
+    "image": "assets/products/135.jpg",
+    "page": "urun-135-sabah-tek-firin-kuzine-soba.html"
+  },
+  {
+    "id": "136",
+    "name": "SÜSLER 8 KÖŞE SÜTUNLU UYUYAN SOBA",
+    "category": "Soba",
+    "image": "assets/products/136.jpg",
+    "page": "urun-136-susler-8-kose-sutunlu-uyuyan-soba.html"
+  },
+  {
+    "id": "137",
+    "name": "SÜSLER HALK TİPİ KÖŞELİ SOBA",
+    "category": "Soba",
+    "image": "assets/products/137.jpg",
+    "page": "urun-137-susler-halk-tipi-koseli-soba.html"
+  },
+  {
+    "id": "138",
+    "name": "SÜSLER ŞÖMİNE",
+    "category": "Soba",
+    "image": "assets/products/138.jpg",
+    "page": "urun-138-susler-somine.html"
+  },
+  {
+    "id": "139",
+    "name": "SÜSLER TUGLALI KUZİNE",
+    "category": "Soba",
+    "image": "assets/products/139.jpg",
+    "page": "urun-139-susler-tuglali-kuzine.html"
+  },
+  {
+    "id": "140",
+    "name": "UYUYAN ODUN SOBASI",
+    "category": "Soba",
+    "image": "assets/products/140.jpg",
+    "page": "urun-140-uyuyan-odun-sobasi.html"
+  },
+  {
+    "id": "141",
+    "name": "YUVARLAK KOVALI SOBA",
+    "category": "Soba",
+    "image": "assets/products/141.jpg",
+    "page": "urun-141-yuvarlak-kovali-soba.html"
+  },
+  {
+    "id": "142",
+    "name": "BORU ASKISI",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/142.jpg",
+    "page": "urun-142-boru-askisi.html"
+  },
+  {
+    "id": "143",
+    "name": "BORU KELEPÇESİ",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/143.jpg",
+    "page": "urun-143-boru-kelepcesi.html"
+  },
+  {
+    "id": "144",
+    "name": "ISIKES",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/144.jpg",
+    "page": "urun-144-isikes.html"
+  },
+  {
+    "id": "145",
+    "name": "KOVA IZGARASI",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/145.jpg",
+    "page": "urun-145-kova-izgarasi.html"
+  },
+  {
+    "id": "146",
+    "name": "KOVA KULPU",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/146.jpg",
+    "page": "urun-146-kova-kulpu.html"
+  },
+  {
+    "id": "147",
+    "name": "KUZİNE SOBA TABLASI",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/147.jpg",
+    "page": "urun-147-kuzine-soba-tablasi.html"
+  },
+  {
+    "id": "148",
+    "name": "RÜZGAR GÜLÜ",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/148.jpg",
+    "page": "urun-148-ruzgar-gulu.html"
+  },
+  {
+    "id": "149",
+    "name": "SOBA KOVASI",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/149.jpg",
+    "page": "urun-149-soba-kovasi.html"
+  },
+  {
+    "id": "150",
+    "name": "SOBA TABLA 1",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/150.jpg",
+    "page": "urun-150-soba-tabla-1.html"
+  },
+  {
+    "id": "151",
+    "name": "SOBA TABLA",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/151.jpg",
+    "page": "urun-151-soba-tabla.html"
+  },
+  {
+    "id": "152",
+    "name": "UYUYAN SOBA KOVASI KROM",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/152.jpg",
+    "page": "urun-152-uyuyan-soba-kovasi-krom.html"
+  },
+  {
+    "id": "153",
+    "name": "UYUYAN SOBA KOVASI",
+    "category": "Soba Aksesuarları",
+    "image": "assets/products/153.jpg",
+    "page": "urun-153-uyuyan-soba-kovasi.html"
+  },
+  {
+    "id": "158",
+    "name": "17 LT ZEYTİNYAGI TENEKESİ",
+    "category": "Teneke Kutular",
+    "image": "assets/products/158.jpg",
+    "page": "urun-158-17-lt-zeytinyagi-tenekesi.html"
+  },
+  {
+    "id": "159",
+    "name": "18 KG PEYNİR TENEKESİ",
+    "category": "Teneke Kutular",
+    "image": "assets/products/159.jpg",
+    "page": "urun-159-18-kg-peynir-tenekesi.html"
+  }
+]
